@@ -1,71 +1,52 @@
 <div align="center">
 
-<!-- HEADER: Matrix-style terminal intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+whoami;Furkan+Akyuz+%7C+AI+Systems+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Furkan+Akyuz" alt="Name" />
 
-<br/>
-
-```
- ██████╗ ██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ██╗
- ██╔═══╝ ██║   ██║██╔══██╗██║ ██╔╝██╔══██╗████╗  ██║
- █████╗  ██║   ██║██████╔╝█████╔╝ ███████║██╔██╗ ██║
- ██╔══╝  ██║   ██║██╔══██╗██╔═██╗ ██╔══██║██║╚██╗██║
- ██║     ╚██████╔╝██║  ██║██║  ██╗██║  ██║██║ ╚████║
- ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&lines=%3E+AI+Systems+Architect+%40+PrimaAI;%3E+Multi-Agent+Orchestration+%7C+Prompt+Engineering;%3E+Full-Stack+Engineer+%7C+Applied+ML;%3E+Building+systems+that+think+about+thinking" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=AI+Systems+Architect+%40+PrimaAI;Multi-Agent+Orchestration+%7C+Prompt+Engineering;Full-Stack+Engineer+%7C+Applied+ML" alt="Subtitle" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-akyuz-88985927a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keeganthewhi)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:furkanakyuz1453@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanakyuz1453@gmail.com)
 
 </div>
 
----
+<br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeganthewhi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="300" />
+## About Me
 
-### `> cat /etc/about_me`
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeganthewhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8" width="300" />
 
-```yaml
-name: Furkan Akyuz
-location: Turkiye
-role: AI Systems Architect & Prompt Engineer
-company: PrimaAI
-education: B.Sc. Electronics & Communication Engineering
-            @ Kocaeli University (2026)
-languages:
-  - Turkish: Native
-  - English: C2 (Professional/Fluent)
-  - German: A2 (Elementary)
-focus:
-  - Multi-model LLM orchestration
-  - Adversarial AI review systems
-  - Constitutional prompt design
-  - Production AI governance
-```
+- AI Systems Architect & Prompt Engineer at **PrimaAI**
+- B.Sc. Electronics & Communication Engineering @ **Kocaeli University** (2026)
+- Based in **Turkiye**
+- Languages: Turkish (Native), English (C2), German (A2)
+
+**Current focus:**
+- Multi-model LLM orchestration
+- Adversarial AI review systems
+- Constitutional prompt design
+- Production AI governance
 
 <br clear="both"/>
 
 ---
 
-### `> ls -la ./skills/`
+## Tech Stack
 
 <div align="center">
 
-**`// AI & ML`**
+**AI & ML**
 
-![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=00ff41)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00FF41?style=flat-square&logoColor=black)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FF6600?style=flat-square&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-333333?style=flat-square&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-444444?style=flat-square&logoColor=white)
 
-**`// Languages`**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -74,7 +55,7 @@ focus:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**`// Backend & Infrastructure`**
+**Backend & Infrastructure**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -83,14 +64,14 @@ focus:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**`// Frontend & Desktop`**
+**Frontend & Desktop**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-**`// DevOps & Tools`**
+**DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -102,7 +83,7 @@ focus:
 
 ---
 
-### `> cat ./projects/featured.md`
+## Featured Projects
 
 <table>
 <tr>
@@ -143,7 +124,7 @@ focus:
 #### Agricultural CV & Seed Traceability
 > **YOLOv8 Quality Classification**
 >
-> Computer vision quality grading system for agricultural supply chains with lot traceability, QR-based lookups, and producer certificates. Part of Turkey's first digital seed traceability initiative.
+> Computer vision quality grading system for agricultural supply chains with lot traceability, QR-based lookups, and producer certificates.
 >
 > `Python` `YOLOv8` `OpenCV` `React` `PostgreSQL`
 
@@ -175,12 +156,12 @@ focus:
 
 ---
 
-### `> neofetch --stats`
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keeganthewhi&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=keeganthewhi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keeganthewhi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=keeganthewhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&include_all_commits=true" width="49%" />
 
 </div>
 
@@ -188,23 +169,10 @@ focus:
 
 <div align="center">
 
-### `> tail -f /var/log/philosophy.log`
-
-```
-[2025-01-01] The best AI systems have adversaries built in.
-[2025-06-15] Constitutional constraints > unconstrained generation.
-[2026-01-01] I don't build AI tools. I build systems that think about thinking.
-```
+*The best AI systems have adversaries built in.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=keeganthewhi&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
-
-<br/>
-
-```
-$ exit
-Connection to keeganthewhi closed.
-```
+<img src="https://komarev.com/ghpvc/?username=keeganthewhi&color=58a6ff&style=flat-square&label=Profile+Views" />
 
 </div>
