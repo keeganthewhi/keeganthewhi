@@ -166,11 +166,5 @@
 ---
 
 
-*The best AI systems have adversaries built in.*
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=keeganthewhi&color=58a6ff&style=flat-square&label=Profile+Views" />
-
-</div>
 
