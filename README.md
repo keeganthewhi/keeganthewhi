@@ -18,7 +18,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeganthewhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=8" width="300" />
 
-- AI Systems Architect & Prompt Engineer at **PrimaAI**
+- AI Systems Architect & Prompt Engineer at **PrimaNorth**
 - Languages: Turkish (Native), English (C2), German (A2)
 
 **Current focus:**
