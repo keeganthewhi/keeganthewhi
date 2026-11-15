@@ -1,30 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
-<title id="title">Furkan Akyüz — systems architecture and AI</title>
-<desc id="desc">A restrained dark technical header with a geometric node diagram.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+<title id="title">Furkan Akyüz — systems architecture, AI, and infrastructure</title>
+<desc id="desc">Black, burgundy, and antique-gold engineering header with a geometric dependency diagram.</desc>
 <defs>
-  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#223045" stroke-width=".6" opacity=".36"/></pattern>
-  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101925"/><stop offset="1" stop-color="#080e17"/></linearGradient>
-  <linearGradient id="signal"><stop stop-color="#60d9cc"/><stop offset="1" stop-color="#7195ec"/></linearGradient>
+<linearGradient id="surface" x2="1" y2="1"><stop stop-color="#02060f"/><stop offset=".65" stop-color="#120508"/><stop offset="1" stop-color="#25101a"/></linearGradient>
+<linearGradient id="gold" x2="1" y2=".3"><stop stop-color="#f2dca0"/><stop offset=".55" stop-color="#d8b979"/><stop offset="1" stop-color="#9a7f43"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#d8b979" stop-opacity=".12"/><stop offset="1" stop-color="#d8b979" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#d8b979" stroke-opacity=".035"/></pattern>
 </defs>
-<rect x=".5" y=".5" width="1199" height="269" rx="16" fill="url(#surface)" stroke="#253347"/>
-<rect x="1" y="1" width="1198" height="268" rx="16" fill="url(#grid)"/>
-<path d="M72 54H128" stroke="url(#signal)" stroke-width="3" stroke-linecap="round"/>
-<text x="72" y="91" fill="#83a4b9" font-size="12" letter-spacing="3" font-family="Consolas,Menlo,monospace">ARCHITECTURE / AI / INFRASTRUCTURE</text>
-<text x="68" y="155" fill="#edf3fa" font-size="54" font-weight="600" letter-spacing="-1.4" font-family="Segoe UI,Arial,sans-serif">Furkan Akyüz</text>
-<text x="72" y="197" fill="#91a1b6" font-size="15" letter-spacing=".4" font-family="Consolas,Menlo,monospace">systems · interfaces · intelligence</text>
-<g fill="none" stroke="#3c536b" stroke-width="1.2">
-  <path d="M832 92H916L956 135H1084"/><path d="M832 178H916L956 135"/>
-  <path d="M916 92V178"/><path d="M992 62V102L956 135L992 168V208"/>
-  <path d="M1084 92V178"/><path d="M992 62H1084V92"/><path d="M992 208H1084V178"/>
+<rect x="1" y="1" width="1398" height="318" rx="18" fill="url(#surface)" stroke="#3a1622"/>
+<rect x="1" y="1" width="1398" height="318" rx="18" fill="url(#grid)"/>
+<path d="M62 51H132" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+<text x="62" y="92" fill="#d8b979" font-size="13" letter-spacing="4" font-family="Segoe UI,Arial,sans-serif">ARCHITECTURE / AI / INFRASTRUCTURE</text>
+<text x="57" y="172" fill="url(#gold)" font-size="72" font-weight="600" letter-spacing="1" font-family="Georgia,Times New Roman,serif">Furkan Akyüz</text>
+<text x="62" y="220" fill="#ece2cf" font-size="21" font-family="Segoe UI,Arial,sans-serif">State, interfaces, and intelligence.</text>
+<path d="M62 257H729" stroke="#3a1622"/>
+<text x="62" y="281" fill="#98a2b4" font-size="11" letter-spacing="2.3" font-family="Consolas,Menlo,monospace">SYSTEM BOUNDARIES · DURABLE STATE · OBSERVABLE BEHAVIOR</text>
+<circle cx="1114" cy="157" r="146" fill="url(#halo)"/>
+<g fill="none" stroke="#9a7f43" stroke-width="1.3">
+<path d="M898 89H1003L1114 157H1252"/><path d="M898 225H1003L1114 157"/>
+<path d="M1003 89V225" stroke-opacity=".3"/><path d="M1182 58V115L1114 157L1182 199V257"/>
+<path d="M1252 89V225" stroke-opacity=".4"/><path d="M1182 58H1252V89M1182 257H1252V225"/>
+<circle cx="1114" cy="157" r="61" stroke-opacity=".25"/><circle cx="1114" cy="157" r="83" stroke-opacity=".12" stroke-dasharray="3 8"/>
 </g>
-<path d="M832 178H916L956 135H1084" fill="none" stroke="url(#signal)" stroke-width="1.8"/>
-<g fill="#101b29" stroke="#53748a" stroke-width="1.2">
-  <rect x="824" y="84" width="16" height="16" rx="4"/><rect x="824" y="170" width="16" height="16" rx="4"/>
-  <rect x="1076" y="84" width="16" height="16" rx="4"/><rect x="1076" y="170" width="16" height="16" rx="4"/>
-  <rect x="986" y="56" width="12" height="12" rx="3"/><rect x="986" y="202" width="12" height="12" rx="3"/>
+<path d="M898 225H1003L1114 157H1252" fill="none" stroke="url(#gold)" stroke-width="1.8"/>
+<g fill="#160710" stroke="#9a7f43" stroke-width="1.2">
+<rect x="888" y="79" width="20" height="20" rx="5"/><rect x="888" y="215" width="20" height="20" rx="5"/>
+<rect x="1242" y="79" width="20" height="20" rx="5"/><rect x="1242" y="215" width="20" height="20" rx="5"/>
+<rect x="1175" y="51" width="14" height="14" rx="4"/><rect x="1175" y="250" width="14" height="14" rx="4"/>
 </g>
-<circle cx="956" cy="135" r="20" fill="#122c33" stroke="#60cdbf" stroke-width="1.5"/>
-<circle cx="956" cy="135" r="5" fill="#85e4d5"/>
-<circle cx="916" cy="92" r="3" fill="#6e879f"/><circle cx="916" cy="178" r="3" fill="#83d8cd"/>
-<text x="1128" y="244" text-anchor="end" fill="#4f647b" font-size="10" letter-spacing="2" font-family="Consolas,Menlo,monospace">/ ENGINEERING</text>
+<circle cx="1114" cy="157" r="28" fill="#25101a" stroke="url(#gold)" stroke-width="1.5"/>
+<circle cx="1114" cy="157" r="7" fill="#f2dca0"/>
+<circle cx="1003" cy="89" r="3" fill="#d8b979"/><circle cx="1003" cy="225" r="3" fill="#d8b979"/>
 </svg>

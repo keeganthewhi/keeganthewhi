@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="350" viewBox="0 0 1400 350" role="img" aria-labelledby="title desc">
+<title id="title">An engineering perspective: boundaries, state, coordination, and evidence</title>
+<desc id="desc">Four related concerns in systems architecture, with feedback from observation and verification.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#d8b979"/></marker></defs>
+<rect x="1" y="1" width="1398" height="348" rx="16" fill="#02060f" stroke="#3a1622"/>
+<text x="42" y="45" fill="#d8b979" font-size="20" font-weight="600" letter-spacing="2" font-family="Segoe UI,Arial,sans-serif">AN ENGINEERING PERSPECTIVE</text>
+<text x="42" y="79" fill="#98a2b4" font-size="19" font-family="Segoe UI,Arial,sans-serif">Interfaces establish the boundary. Evidence closes the loop.</text>
+<g fill="none" stroke="#d8b979" stroke-width="1.7" marker-end="url(#arrow)">
+<path d="M330 181H390"/><path d="M670 181H730"/><path d="M1010 181H1070"/>
+<path d="M1210 238V287H190V238" stroke-dasharray="6 6"/>
+</g>
+<g class="node">
+<rect x="50" y="124" width="280" height="114" rx="10" fill="#25101a" stroke="#9a7f43"/>
+<text x="190" y="158" text-anchor="middle" fill="#f2dca0" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">BOUNDARIES</text>
+<text x="190" y="191" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Interfaces and ownership</text>
+<text x="190" y="217" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Explicit authority</text>
+</g>
+<g class="node">
+<rect x="390" y="124" width="280" height="114" rx="10" fill="#25101a" stroke="#9a7f43"/>
+<text x="530" y="158" text-anchor="middle" fill="#f2dca0" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">STATE</text>
+<text x="530" y="191" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Transitions and persistence</text>
+<text x="530" y="217" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Recovery semantics</text>
+</g>
+<g class="node">
+<rect x="730" y="124" width="280" height="114" rx="10" fill="#25101a" stroke="#9a7f43"/>
+<text x="870" y="158" text-anchor="middle" fill="#f2dca0" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">COORDINATION</text>
+<text x="870" y="191" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Agents and services</text>
+<text x="870" y="217" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Controlled execution</text>
+</g>
+<g class="node">
+<rect x="1070" y="124" width="280" height="114" rx="10" fill="#3a1622" stroke="#d8b979" stroke-width="1.5"/>
+<text x="1210" y="158" text-anchor="middle" fill="#f2dca0" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">EVIDENCE</text>
+<text x="1210" y="191" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Observation and testing</text>
+<text x="1210" y="217" text-anchor="middle" fill="#ece2cf" font-size="20" font-family="Segoe UI,Arial,sans-serif">Traceable outcomes</text>
+</g>
+<text x="700" y="324" text-anchor="middle" fill="#98a2b4" font-size="17" font-family="Segoe UI,Arial,sans-serif">Observe · verify · refine</text>
+</svg>
