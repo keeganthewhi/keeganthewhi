@@ -31,25 +31,6 @@ Technical interests include multi-model orchestration, context continuity, tool 
 | **Tools and authority** | Which actions are permitted, and which component enforces that boundary? |
 | **Evaluation** | What was observed, what actually executed, and which result supports the conclusion? |
 
-## ⚙ Reliability and delivery
-
-Observability, failure recovery, and verification belong in the design. Useful operating signals connect the intended action to the state transition, the executed checks, and the resulting system behavior.
-
-```text
-design       interfaces · invariants · state
-execution    coordination · bounded actions · continuity
-operations   telemetry · recovery · verification
-```
-
-## ⌘ Tooling
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript · JavaScript · Python · SQL |
-| **Services and interfaces** | Node.js · NestJS · React · Next.js |
-| **Data and infrastructure** | PostgreSQL · Redis · Docker · Nginx |
-| **Verification and delivery** | Playwright · Git · CI/CD |
-
 ---
 
 <p align="center">
