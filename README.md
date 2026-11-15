@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Furkan Akyüz — systems architecture, AI, and infrastructure" />
+  <img src="assets/profile-header.svg" width="100%" alt="Furkan Akyüz — AI systems and software architecture" />
+</p>
+
+<p align="center">
+  I'm <strong>Furkan Akyüz</strong>, a technical founder and system architect.<br/>
+  I work on <strong>AI systems, multi-agent orchestration, and software development</strong>.
 </p>
 
 <table width="100%">
@@ -8,28 +13,6 @@
     <td width="50%" valign="top"><sub>◆ KORKUTTEKNOLOJI</sub><br/><strong>Senior System Architect</strong></td>
   </tr>
 </table>
-
-<p align="center"><strong>Systems architecture · Agent systems · Operational reliability</strong></p>
-
-## ◆ Architecture
-
-System boundaries, data contracts, and state transitions are the starting points. The questions that follow are practical: where authority lives, which state must survive interruption, and how a system explains its behavior.
-
-- **Interfaces:** ownership, contracts, and integration boundaries.
-- **State:** persistence, consistency, and explicit transition semantics.
-- **Coordination:** interactions between services, workers, and external systems.
-
-<img src="assets/systems-perspective.svg" width="100%" alt="An engineering perspective connecting boundaries, durable state, coordination, and observable evidence" />
-
-## ◈ Agent systems
-
-Technical interests include multi-model orchestration, context continuity, tool interfaces, and evaluation. The architectural concerns are familiar: defined responsibilities, bounded authority, recoverable state, and evidence for the outcome.
-
-| Concern | Questions |
-| :--- | :--- |
-| **Context and memory** | What information is retained, where did it come from, and when is it stale? |
-| **Tools and authority** | Which actions are permitted, and which component enforces that boundary? |
-| **Evaluation** | What was observed, what actually executed, and which result supports the conclusion? |
 
 ---
 
