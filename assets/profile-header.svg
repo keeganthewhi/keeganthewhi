@@ -12,9 +12,9 @@
 <path d="M62 51H132" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
 <text x="62" y="92" fill="#d8b979" font-size="13" letter-spacing="4" font-family="Segoe UI,Arial,sans-serif">ARCHITECTURE / AI / INFRASTRUCTURE</text>
 <text x="57" y="172" fill="url(#gold)" font-size="72" font-weight="600" letter-spacing="1" font-family="Georgia,Times New Roman,serif">Furkan Akyüz</text>
-<text x="62" y="220" fill="#ece2cf" font-size="21" font-family="Segoe UI,Arial,sans-serif">State, interfaces, and intelligence.</text>
+<text x="62" y="220" fill="#ece2cf" font-size="21" font-family="Segoe UI,Arial,sans-serif">AI systems and software architecture.</text>
 <path d="M62 257H729" stroke="#3a1622"/>
-<text x="62" y="281" fill="#98a2b4" font-size="11" letter-spacing="2.3" font-family="Consolas,Menlo,monospace">SYSTEM BOUNDARIES · DURABLE STATE · OBSERVABLE BEHAVIOR</text>
+<text x="62" y="281" fill="#98a2b4" font-size="11" letter-spacing="2.3" font-family="Consolas,Menlo,monospace">TECHNICAL FOUNDER · SENIOR SYSTEM ARCHITECT</text>
 <circle cx="1114" cy="157" r="146" fill="url(#halo)"/>
 <g fill="none" stroke="#9a7f43" stroke-width="1.3">
 <path d="M898 89H1003L1114 157H1252"/><path d="M898 225H1003L1114 157"/>
