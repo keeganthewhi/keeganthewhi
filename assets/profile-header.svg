@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">Furkan Akyüz — systems architecture and AI</title>
+<desc id="desc">A restrained dark technical header with a geometric node diagram.</desc>
+<defs>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#223045" stroke-width=".6" opacity=".36"/></pattern>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101925"/><stop offset="1" stop-color="#080e17"/></linearGradient>
+  <linearGradient id="signal"><stop stop-color="#60d9cc"/><stop offset="1" stop-color="#7195ec"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="1199" height="269" rx="16" fill="url(#surface)" stroke="#253347"/>
+<rect x="1" y="1" width="1198" height="268" rx="16" fill="url(#grid)"/>
+<path d="M72 54H128" stroke="url(#signal)" stroke-width="3" stroke-linecap="round"/>
+<text x="72" y="91" fill="#83a4b9" font-size="12" letter-spacing="3" font-family="Consolas,Menlo,monospace">ARCHITECTURE / AI / INFRASTRUCTURE</text>
+<text x="68" y="155" fill="#edf3fa" font-size="54" font-weight="600" letter-spacing="-1.4" font-family="Segoe UI,Arial,sans-serif">Furkan Akyüz</text>
+<text x="72" y="197" fill="#91a1b6" font-size="15" letter-spacing=".4" font-family="Consolas,Menlo,monospace">systems · interfaces · intelligence</text>
+<g fill="none" stroke="#3c536b" stroke-width="1.2">
+  <path d="M832 92H916L956 135H1084"/><path d="M832 178H916L956 135"/>
+  <path d="M916 92V178"/><path d="M992 62V102L956 135L992 168V208"/>
+  <path d="M1084 92V178"/><path d="M992 62H1084V92"/><path d="M992 208H1084V178"/>
+</g>
+<path d="M832 178H916L956 135H1084" fill="none" stroke="url(#signal)" stroke-width="1.8"/>
+<g fill="#101b29" stroke="#53748a" stroke-width="1.2">
+  <rect x="824" y="84" width="16" height="16" rx="4"/><rect x="824" y="170" width="16" height="16" rx="4"/>
+  <rect x="1076" y="84" width="16" height="16" rx="4"/><rect x="1076" y="170" width="16" height="16" rx="4"/>
+  <rect x="986" y="56" width="12" height="12" rx="3"/><rect x="986" y="202" width="12" height="12" rx="3"/>
+</g>
+<circle cx="956" cy="135" r="20" fill="#122c33" stroke="#60cdbf" stroke-width="1.5"/>
+<circle cx="956" cy="135" r="5" fill="#85e4d5"/>
+<circle cx="916" cy="92" r="3" fill="#6e879f"/><circle cx="916" cy="178" r="3" fill="#83d8cd"/>
+<text x="1128" y="244" text-anchor="end" fill="#4f647b" font-size="10" letter-spacing="2" font-family="Consolas,Menlo,monospace">/ ENGINEERING</text>
+</svg>
